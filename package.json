@@ -1,0 +1,23 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/netology-code/ajs-homeworks/tree/ajs8#readme",
+  "bugs": {
+    "url": "https://github.com/netology-code/ajs-homeworks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netology-code/ajs-homeworks.git"
+  },
+  "license": "ISC",
+  "author": "Dilara Gilfanova",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
